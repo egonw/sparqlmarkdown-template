@@ -1,4 +1,4 @@
-# MarkDown+SPARQL Template repository
+# Markdown+SPARQL Template repository
 
 This ebook has the purpose to see what information is available in Wikidata
 around the virus and the pandemic. I hope other find it useful.
